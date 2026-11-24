@@ -27,3 +27,7 @@ Een revert verwijdert de foute commit niet, maar maakt een nieuwe commit die de 
 ## 6. Branches en pull requests
 
 Een branch is een aparte werkversie van je project, waarin je wijzigingen kunt maken zonder de rest aan te raken. Main blijft daardoor altijd de werkende versie, want half afgewerkt werk komt pas in main als het klaar en nagekeken is. Een pull request is een voorstel om de wijzigingen van een branch in main te zetten, zodat anderen ze eerst kunnen bekijken en bespreken.
+
+## 7. Mijn conflict
+
+Op de website en op mijn laptop had ik dezelfde titelregel op een andere manier aangepast, en daardoor wist Git niet welke versie het moest bewaren. Ik koos voor een titel die beide versies combineert. Zo gaat er niets verloren en weet ik zelf zeker dat de titel klopt.
