@@ -19,3 +19,7 @@ Een .gitignore-bestand zegt aan Git welke bestanden het moet negeren, zodat ze n
 ## 4. Pull
 
 Ik heb de README online op GitHub aangepast en daarna met pull die wijziging naar mijn computer gehaald. Je pullt aan het begin van elke les eerst, zodat je lokale map up-to-date is en je niet met een oude versie verder werkt.
+
+## 5. Terugdraaien
+
+Een revert verwijdert de foute commit niet, maar maakt een nieuwe commit die de wijziging ongedaan maakt. De geschiedenis blijft daardoor volledig bewaard: je ziet wat er gebeurd is en wanneer, en het terugdraaien staat er zelf als aparte commit bij.
