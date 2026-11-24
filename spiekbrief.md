@@ -12,3 +12,6 @@ Slecht voorbeeld: aanpassing
 
 Het eerste bericht is beter omdat je er meteen aan ziet wat er veranderd is. Bij het tweede weet je niets, en dat is vervelend als je later in de geschiedenis iets wilt terugvinden.
 
+## 3. Gitignore
+
+Een .gitignore-bestand zegt aan Git welke bestanden het moet negeren, zodat ze niet per ongeluk in je repository terechtkomen.
