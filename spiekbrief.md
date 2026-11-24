@@ -15,3 +15,7 @@ Het eerste bericht is beter omdat je er meteen aan ziet wat er veranderd is. Bij
 ## 3. Gitignore
 
 Een .gitignore-bestand zegt aan Git welke bestanden het moet negeren, zodat ze niet per ongeluk in je repository terechtkomen.
+
+## 4. Pull
+
+Ik heb de README online op GitHub aangepast en daarna met pull die wijziging naar mijn computer gehaald. Je pullt aan het begin van elke les eerst, zodat je lokale map up-to-date is en je niet met een oude versie verder werkt.
