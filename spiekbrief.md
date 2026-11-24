@@ -23,3 +23,7 @@ Ik heb de README online op GitHub aangepast en daarna met pull die wijziging naa
 ## 5. Terugdraaien
 
 Een revert verwijdert de foute commit niet, maar maakt een nieuwe commit die de wijziging ongedaan maakt. De geschiedenis blijft daardoor volledig bewaard: je ziet wat er gebeurd is en wanneer, en het terugdraaien staat er zelf als aparte commit bij.
+
+## 6. Branches en pull requests
+
+Een branch is een aparte werkversie van je project, waarin je wijzigingen kunt maken zonder de rest aan te raken. Main blijft daardoor altijd de werkende versie, want half afgewerkt werk komt pas in main als het klaar en nagekeken is. Een pull request is een voorstel om de wijzigingen van een branch in main te zetten, zodat anderen ze eerst kunnen bekijken en bespreken.
