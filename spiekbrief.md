@@ -1,4 +1,4 @@
-# Spiekbrief Git en GitHub, versie van mijn laptop
+# Spiekbrief Git en GitHub, versie van laptop en website
 
 ## 1. Clone, commit, push en pull
 
